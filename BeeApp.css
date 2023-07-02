@@ -1,0 +1,21 @@
+h1{
+    color: black;
+    float: right;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    
+}
+
+.img-responsive{
+    background-color: beige;
+}
+
+.clouds{
+    background-color: aliceblue;
+    width: 50%;
+    align-content: center;
+}
